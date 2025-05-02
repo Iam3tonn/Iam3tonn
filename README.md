@@ -1,9 +1,8 @@
-<h1 align="center">Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"/> I'm Dmitriy Krasnyh</h1>
+<h1 align="center">Hi there 👋, I'm Dmitriy Krasnyh</h1>
+<h3 align="center">Python / Fullstack Developer • Backend • Web3 • AI Enthusiast</h3>
 
 <p align="center">
-  <strong>Python / Fullstack Developer</strong><br/>
-  🌍 Vladimir, Russia · ✉️ <a href="mailto:dimathedevoloper@gmail.com">dimathedevoloper@gmail.com</a><br/>
-  🚀 Currently working on <a href="https://github.com/dimathedeveloper/offpay">OffPay — offline wallet</a>
+📍 Vladimir, Russia · ✉️ <a href="mailto:dimathedeveloper@gmail.com">dimathedeveloper@gmail.com</a> · 🚀 <a href="https://github.com/dimathedeveloper/offpay" target="_blank">OffPay — offline wallet</a>
 </p>
 
 ---
@@ -19,49 +18,43 @@ I’m not just a coder — I love turning ideas into real, working products 💡
 
 ---
 
-## 🛠 Tech Stack
-
-### 👨‍💻 Languages & Core
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-
-### 🖥 Frontend
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-
-### 🛢 Databases & Hosting
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-
-### ☁️ DevOps & Cloud
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
-### 🎨 Design
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
-### 🌐 Web3
-![MetaMask](https://img.shields.io/badge/-MetaMask-F6851B?style=flat&logo=metamask&logoColor=white)
-![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
-![Hardhat](https://img.shields.io/badge/-Hardhat-F7DF1E?style=flat&logo=hardhat&logoColor=black)
-![Ethers.js](https://img.shields.io/badge/-Ethers.js-4E5EE4?style=flat)
-![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=flat)
-![Truffle](https://img.shields.io/badge/-Truffle-3C3C3D?style=flat)
+### 🧩 Featured Projects
+- 🔐 [OffPay](https://github.com/dimathedeveloper/offpay) — Offline-first crypto wallet with QR signing and Telegram integrations
+- 🤖 [BizIdeas](https://github.com/dimathedeveloper/bizideas) — GPT-powered idea finder with Telegram bot and Supabase backend
 
 ---
 
-> 📫 Feel free to reach out or connect — I'm always up for discussing cool projects or sharing ideas!
+### 💻 Tech Stack
+
+<p align="left">
+  <img title="Python" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="24" />
+  <img title="JavaScript" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="24" />
+  <img title="TypeScript" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="24" />
+  <img title="Go" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="24" />
+  <img title="Bash" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="24" />
+  <img title="React" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="24" />
+  <img title="Vue" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="24" />
+  <img title="TailwindCSS" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="24" />
+  <img title="HTML5" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="24" />
+  <img title="CSS3" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="24" />
+  <img title="Node.js" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="24" />
+  <img title="FastAPI" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="24" />
+  <img title="Django" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="24" />
+  <img title="PostgreSQL" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="24" />
+  <img title="MongoDB" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="24" />
+  <img title="Supabase" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="24" />
+  <img title="Docker" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="24" />
+  <img title="DigitalOcean" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="24" />
+  <img title="AWS" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="24" />
+  <img title="Linux" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="24" />
+  <img title="Figma" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="24" />
+  <img title="MetaMask" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="24" />
+  <img title="Ethereum" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="24" />
+  <img title="Hardhat" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" width="24" />
+</p>
+
+---
+
+### 📬 Let's Connect
+
+💬 Always open to chat — feel free to reach out if you’re working on something exciting or want to collaborate!
